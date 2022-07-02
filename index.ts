@@ -13,9 +13,9 @@ let user: [number , string , boolean] = [2, 'sahed', true]
 
  let mySize = Size.medium
  
- // function 
- // void means function donot return 
-
+ // function //
+ // void means function don't return 
+// if you want to return in your function , you will be writing data type after arguments;
  function income ( money: number , year:number ): number {
     
    if(money < 2000)
