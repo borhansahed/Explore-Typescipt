@@ -21,4 +21,3 @@ function income(money, year) {
     return money;
 }
 income(2000, 2022);
-console.log('sahed')
